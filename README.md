@@ -1,5 +1,5 @@
-# Wisconsin-Breat-Cancer-Classification
-Wisconsin Breat Cancer Classification
+# Wisconsin-Breast-Cancer-Classification
+Wisconsin Breast Cancer Classification
 
 Using R and Machine Learning Methods to Clean Data and Compare
 
